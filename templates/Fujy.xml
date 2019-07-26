@@ -1,0 +1,26 @@
+<templateSet group="Fujy">
+  <template name="nmp" value="Map&lt;String,Object&gt; map = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ls" value="List&lt;String&gt; list = new ArrayList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="li" value="List&lt;Integer&gt; list = new ArrayList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/**" value="/**&#10; * @Description&#10; * @author fujy&#10; * @date $CREAT_TIME$&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="ifd" value="if (DataUtil.isNullOrEmpty($VALUS$)){&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

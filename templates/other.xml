@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="Map" value="Map&lt;String,Object&gt;" description="Map&lt;String,Object&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
