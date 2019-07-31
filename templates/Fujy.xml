@@ -16,6 +16,9 @@
   </template>
   <template name="/**" value="/**&#10; * @Description&#10; * @author fujy&#10; * @date $CREAT_TIME$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
   <template name="ifd" value="if (DataUtil.isNullOrEmpty($VALUS$)){&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VALUS" expression="" defaultValue="" alwaysStopAt="true" />
