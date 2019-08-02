@@ -26,7 +26,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lo" value="List&lt;Object&gt; list = new ArrayList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="lo" value="List&lt;Object&gt; list = new ArrayList&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
