@@ -14,7 +14,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="/**" value="/**&#10; * @Description&#10; * @author fujy&#10; * @date $CREAT_TIME$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+  <template name="/**" value="/**&#10; * &#10; * @author fujy&#10; * @date $CREAT_TIME$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -27,6 +27,26 @@
     </context>
   </template>
   <template name="lo" value="List&lt;Object&gt; list = new ArrayList&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;String,Object&gt; params" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Li" value="List&lt;Integer&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Lo" value="List&lt;Object&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Ls" value="List&lt;String&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
