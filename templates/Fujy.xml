@@ -51,17 +51,17 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="nmps" value="Map&lt;String,Object&gt; searchMap = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="nmps" value="Map&lt;String,Object&gt; searchMap = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="nmpp" value="Map&lt;String,Object&gt; params = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="nmpp" value="Map&lt;String,Object&gt; params = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="nmpr" value="Map&lt;String,Object&gt; resultMap = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="nmpr" value="Map&lt;String,Object&gt; resultMap = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
