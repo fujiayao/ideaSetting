@@ -16,8 +16,8 @@
   </template>
   <template name="*" value="**&#10; * add by fujy on $CREAT_TIME$&#10; $params$&#10; $return$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @Param ' + params[i] + ': '}else{result+='\\n' + ' * @Param ' + params[i] + ': '}}; return result;}&quot;, methodParameters()); " alwaysStopAt="true" />
-    <variable name="return" expression="" defaultValue="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = '* @return: ' + returnType; return result;&quot;, methodReturnType()); " alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @param ' + params[i] + ': '}else{result+='\\n' + ' * @param ' + params[i] + ': '}}; return result;}&quot;, methodParameters()); " alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = '* @return : ' + returnType; return result;&quot;, methodReturnType()); " alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -73,7 +73,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="/**c" value="/**&#10; * @package: $package$&#10; * @description: &#10; * @author: fujy&#10; * @date: $date$&#10; **/" description="class上的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="/**c" value="/**&#10; * @package : $package$&#10; * @description : &#10; * @author : fujy&#10; * @date : $date$&#10; **/" description="class上的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="package" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
