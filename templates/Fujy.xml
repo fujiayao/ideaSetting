@@ -87,7 +87,7 @@
     </context>
   </template>
   <template name="modify" value=" modify by fujy on $CREAT_TIME$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="CREAT_TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="XML" value="true" />
