@@ -73,7 +73,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="/**c" value="/**&#10; * @package : $package$&#10; * @description : &#10; * @author : fujy&#10; * @date : $date$&#10; **/" description="class上的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="/**c" value="/**&#10; * @package: $package$&#10; * @description: &#10; * @author: fujy&#10; * @date: $date$&#10; **/" description="class上的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="package" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
