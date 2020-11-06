@@ -214,6 +214,10 @@
           <option name="url" value="http://code.data4truth.com" />
           <option name="userName" value="fujy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yanglao-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
