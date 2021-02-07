@@ -278,9 +278,13 @@
           <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-wb-light" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yl-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\DataWarehouse" />
+    <option name="cloneParentDir" value="E:\DataWarehouse" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
