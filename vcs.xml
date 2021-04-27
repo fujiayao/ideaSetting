@@ -330,6 +330,10 @@
           <option name="url" value="https://code.data4truth.com/zhenwu/config-yanglao-it-vpn2" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhupf/swagger2word.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
