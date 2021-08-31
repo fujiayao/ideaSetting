@@ -370,6 +370,10 @@
           <option name="url" value="https://code.data4truth.com/mos/mos-webchatmall" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/wechatplatform" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\DataWarehouse" />
