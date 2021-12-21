@@ -450,6 +450,10 @@
           <option name="url" value="https://code.data4truth.com/hzqt/hzqt-biz-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/chunanqt/caqt-biz" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
