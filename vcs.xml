@@ -474,6 +474,10 @@
           <option name="url" value="https://code.data4truth.com/zhyl/alarm-configuration" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mzeq/mzeq-meeting" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
