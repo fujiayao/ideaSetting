@@ -546,6 +546,10 @@
           <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-workorder-plus" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-framework-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
