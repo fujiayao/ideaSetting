@@ -1,0 +1,95 @@
+<templateSet group="Fujy">
+  <template name="nmp" value="Map&lt;String,Object&gt; map = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ls" value="List&lt;String&gt; list = new ArrayList&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="li" value="List&lt;Integer&gt; list = new ArrayList&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*" value="**&#10; * add by fujy on $CREAT_TIME$&#10; $params$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @param ' + params[i] + ': '}else{result+='\\n' + ' * @param ' + params[i] + ': '}}; return result;}&quot;, methodParameters()); " alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifd" value="if (DataUtil.isNullOrEmpty($VALUS$)){&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lo" value="List&lt;Object&gt; list = new ArrayList&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;String,Object&gt; params" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Li" value="List&lt;Integer&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Lo" value="List&lt;Object&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Ls" value="List&lt;String&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nmps" value="Map&lt;String,Object&gt; searchMap = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nmpp" value="Map&lt;String,Object&gt; params = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nmpr" value="Map&lt;String,Object&gt; resultMap = new HashMap&lt;&gt;();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="for( : ){&#10;&#10;}" description="fore" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/**c" value="/**&#10; * @package: $package$&#10; * @description: &#10; * @author: fujy&#10; * @date: $date$&#10; **/" description="class上的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="package" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="add" value=" add by fujy on $CREAT_TIME$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="modify" value=" modify by fujy on $CREAT_TIME$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CREAT_TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,596 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.169/liuyj/auth-single-hdwh.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zs/IIIS" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080" />
+          <option name="userName" value="fujy" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ansitech/weixin4j/tree/master/example/weixin4j-example-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ansitech/weixin4j.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.example.com/zhumf/springboot-transaction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zhumf/springboot-transaction" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/springcloud-root" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/ods/ods-root" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/huadong/hddyf-job" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zhaozy/mall" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/springcloud-biz-root" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud-biz/biz-prod" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud-biz/biz-drm" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/liuyj/hdwh" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/others/rms-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/product/ebb-root" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zhupf/xxl-job" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud-biz/biz-order" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud-biz/biz-supply" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud-biz/biz-pay" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/meishubao/meishubao-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zjbdos-component/OBSTool" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/zjbdos-cloud-form" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/zjbdos-cloud-framework-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-oa-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-oa" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/zjbdos-cloud-dms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/huadong/hddyf-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zjbdos/commons" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-ext" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/zhumf/seata-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-wb" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/springcloud/zjbdos-cloud-push" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-wb-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-kg" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-kg-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.87.23:8088" />
+          <option name="userName" value="fujy@zjbdos.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-ext" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080" />
+          <option name="userName" value="fujy@zjbdos.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-kg" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/springcloud/zjbdos-cloud-meeting" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-kg-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-oa-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-oa" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/springcloud/zjbdos-cloud-push" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/springcloud/zjbdos-cloud-dms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/huadong/hddyf-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/product/ebb-root" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-wb" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/springcloud/zjbdos-cloud-framework-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-family" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.data4truth.com" />
+          <option name="userName" value="fujy" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yanglao-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-index" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-mesh" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-helper" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yl-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/teacher-v2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/obsUpload" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/education-toc" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/createQuestion" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/weixinMsgAndTimedTask" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-evaluation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/yangyc/code-generator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-websocket" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-yh" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-yh-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/hzyw/hzyw-wb-light" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yl-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-command" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/time_bank" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/time-bank" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-dining" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/goods-plus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/goods-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.133.90.120:9080/springcloud-biz/biz-pay" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-iobject" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yanglao-it-vpn1" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/coupon" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/coupon-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yanglao-it-vpn2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhupf/swagger2word.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/tlqt/time-bank" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/config-ht-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="15068068396@163.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fujiayao/happyHolidays" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-family-bed" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/mall-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/user" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/operation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/mos-webchatmall" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/wechatplatform" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud-biz/coupon-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/config-ht-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/marketing" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/activity" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/mos-order" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/support" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/approve" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/game" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/park" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/ht-offline-order" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://crm.cntpy.com:8088/ht/config-ht-pre" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://crm.cntpy.com:8088" />
+          <option name="userName" value="fujy" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-evaluation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fujiayao/confession2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhenwu/config-yl-dev/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/pointCompute" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/pushQuestion" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/education/RedisCache" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/hzqt/hzqt-biz-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/chunanqt/caqt-biz" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-engine-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/cwzxzzy/cwzx" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/BJJW/bjjw-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/pi/coupon" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/alarm-configuration" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mzeq/mzeq-meeting" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/lecode/config-lecode-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/lecode/config-lecode-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mzeq/mzeq-oa" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-news" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/distribution" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-member" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-major" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-integrate-bigdata" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-workorder-handle" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-model" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/bjqt/member" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mos/devplatform" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-data-modeling" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-code-generator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/lecode/lecode-lcdp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-workorder" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-workorder-plus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-framework-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyly/zhyly-major" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/config-ajsh-dev" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/config-ajsh-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyly/config-zhyly.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/zhyl-medical-info" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dyl-demo/dining" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dyl-demo/config-kcmz" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\DataWarehouse" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>
