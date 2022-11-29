@@ -598,6 +598,14 @@
           <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-data-modeler" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/cwzxzzy/smart-garden" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/cwzxzzy/smart-garden.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
