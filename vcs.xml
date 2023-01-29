@@ -614,6 +614,10 @@
           <option name="url" value="https://github.com/ilanyu/ReverseProxy/releases" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mzsq/mzsq-xyh" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
