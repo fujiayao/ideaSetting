@@ -591,11 +591,31 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-document" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-data-modeler" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://gitee.com/cwzxzzy/smart-garden" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://gitee.com/cwzxzzy/smart-garden.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://code.data4truth.com/zhyly/document" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ilanyu/ReverseProxy/releases" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/mzsq/mzsq-xyh" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -607,14 +627,14 @@
     <option name="cloneParentDir" value="E:\DataWarehouse" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_DIFF_PREVIEW" value="true" />
-    <option name="COLUMN_ID_ORDER">
+    <option name="COLUMN_ORDER">
       <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>
