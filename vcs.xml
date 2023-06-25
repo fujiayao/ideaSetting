@@ -706,9 +706,17 @@
           <option name="url" value="https://code.data4truth.com/zhupf/city-brain-fetch" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-major/project_members" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-major.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\DataWarehouse" />
+    <option name="cloneParentDir" value="F:\DataWarehouse" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
