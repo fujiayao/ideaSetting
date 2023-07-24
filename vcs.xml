@@ -738,6 +738,10 @@
           <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-uims-light" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-uims" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
