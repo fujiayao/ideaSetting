@@ -1,5 +1,6 @@
 <application>
   <component name="Stocker">
+    <option name="quoteColorPattern" value="NONE" />
     <option name="version" value="1.5.2" />
   </component>
 </application>
