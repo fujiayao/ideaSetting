@@ -854,6 +854,10 @@
           <option name="url" value="https://code.data4truth.com/zhyl/zhyl-bigdata" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/zhyl/device-monitoring" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DataWarehouse" />
